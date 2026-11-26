@@ -1,0 +1,6 @@
+[submodule "Fokus"]
+	path = Fokus
+	url = https://github.com/guilherme-fermino-de-souza/fokus.git
+[submodule "Javascript-Basics"]
+	path = Javascript-Basics
+	url = https://github.com/guilherme-fermino-de-souza/javascript-intruduction-basics.git
